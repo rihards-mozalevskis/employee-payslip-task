@@ -1,9 +1,9 @@
-<h2>Darbinieka algas aprçíins<h2>
+<h2>Darbinieka algas aprÄ“Ä·ins<h2>
 
-+ Jâizveido klases, kas attçlotas payroll-task.png shçmâ
-+ Jâizveido attiecîgie servisi, lai veiktu algu aprçíinu
-+ Gala rezultâtâ visiem EmployeePayslip.Tests unit testiem vajadzçtu strâdât
-+ Jânodroğina datu izolâcija CompanyLîmenî
-+ Datu bâzei var izmantot InMemoryDb
-+ Jâizmanto EntityFramework
++ JÄizveido klases, kas attÄ“lotas payroll-task.png shÄ“mÄ
++ JÄizveido attiecÄ«gie servisi, lai veiktu algu aprÄ“Ä·inu
++ Gala rezultÄtÄ visiem EmployeePayslip.Tests unit testiem vajadzÄ“tu strÄdÄt
++ JÄnodroÅ¡ina datu izolÄcija Company lÄ«menÄ«
++ Datu bÄzei var izmantot InMemoryDb
++ JÄizmanto EntityFramework
 
